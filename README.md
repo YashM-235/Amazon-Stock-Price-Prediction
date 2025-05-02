@@ -20,8 +20,9 @@ This repository presents a full pipeline for predicting Amazon (AMZN) stock pric
 
 - `Stock_Predict_Amazon_final.ipynb` - Main notebook with code and results.
 - `Final-Report-on-Predictive-Analysis-of-Amazon-Stock-Price-Movements.docx` - Detailed project report.
-- `data/` - (Optional) Data files or download instructions.
-- `figures/` - Visualizations and plots.
+- `data.csv` - Dataset
+- `Codes/` Code Progress till now.
+- `Figures/` - Visualizations and plots.
 - `README.md` - Project overview and instructions.
 
 ## Getting Started
