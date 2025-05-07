@@ -51,7 +51,9 @@ This repository presents a full pipeline for predicting Amazon (AMZN) stock pric
 
 ## Author
 
-Yash Mehta, Bennett University
+Yash Mehta, 
+Year 3, BTech CSE (Data Science)
+Bennett University
 
 ## License
 
